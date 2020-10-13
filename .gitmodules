@@ -1,3 +1,4 @@
 [submodule "disRepo01"]
 	path = disRepo01
 	url = https://github.com/Safwert/disRepo01.git
+	branch = topicA
